@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=dhiraj07-dba&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Oracle+Database+Administrator;Performance+Tuning+Expert;RMAN+Backup+%26+Recovery;Data+Guard+%7C+High+Availability;Oracle+19c+Upgrade+Specialist;Cloud+Database+Learner+OCI+%2F+AWS"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -67,6 +71,15 @@
 </a>
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
 
 ## 💡 DBA Philosophy
 
